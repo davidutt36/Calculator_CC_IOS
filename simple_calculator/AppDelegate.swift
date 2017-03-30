@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  CC-IOS
+//  simple_calculator
 //
-//  Created by David Utt on 1/26/17.
+//  Created by David Utt on 3/16/17.
 //  Copyright © 2017 David Utt. All rights reserved.
 //
 

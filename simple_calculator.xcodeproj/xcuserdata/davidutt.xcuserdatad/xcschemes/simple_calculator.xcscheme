@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0810"
+   LastUpgradeVersion = "0820"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "178C6FA91E3A70C4006E0360"
-               BuildableName = "CC-IOS.app"
-               BlueprintName = "CC-IOS"
-               ReferencedContainer = "container:CC-IOS.xcodeproj">
+               BlueprintIdentifier = "17E305AA1E7B0DBB00F925A2"
+               BuildableName = "simple_calculator.app"
+               BlueprintName = "simple_calculator"
+               ReferencedContainer = "container:simple_calculator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "178C6FA91E3A70C4006E0360"
-            BuildableName = "CC-IOS.app"
-            BlueprintName = "CC-IOS"
-            ReferencedContainer = "container:CC-IOS.xcodeproj">
+            BlueprintIdentifier = "17E305AA1E7B0DBB00F925A2"
+            BuildableName = "simple_calculator.app"
+            BlueprintName = "simple_calculator"
+            ReferencedContainer = "container:simple_calculator.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "178C6FA91E3A70C4006E0360"
-            BuildableName = "CC-IOS.app"
-            BlueprintName = "CC-IOS"
-            ReferencedContainer = "container:CC-IOS.xcodeproj">
+            BlueprintIdentifier = "17E305AA1E7B0DBB00F925A2"
+            BuildableName = "simple_calculator.app"
+            BlueprintName = "simple_calculator"
+            ReferencedContainer = "container:simple_calculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "178C6FA91E3A70C4006E0360"
-            BuildableName = "CC-IOS.app"
-            BlueprintName = "CC-IOS"
-            ReferencedContainer = "container:CC-IOS.xcodeproj">
+            BlueprintIdentifier = "17E305AA1E7B0DBB00F925A2"
+            BuildableName = "simple_calculator.app"
+            BlueprintName = "simple_calculator"
+            ReferencedContainer = "container:simple_calculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
