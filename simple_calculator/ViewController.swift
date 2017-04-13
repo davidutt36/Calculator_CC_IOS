@@ -93,7 +93,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func saveAction(_ sender: UIButton) {
-    
+        UIPasteboard.general.string = "\(resultsLable)"
     }
 
 }
