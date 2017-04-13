@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					17E305AA1E7B0DBB00F925A2 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 7VHUM42SU7;
+						DevelopmentTeam = P9PHV77L7Y;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -259,8 +259,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7VHUM42SU7;
+				DEVELOPMENT_TEAM = P9PHV77L7Y;
 				INFOPLIST_FILE = simple_calculator/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Parsons.simple-calculator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -272,8 +273,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 7VHUM42SU7;
+				DEVELOPMENT_TEAM = P9PHV77L7Y;
 				INFOPLIST_FILE = simple_calculator/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Parsons.simple-calculator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -300,6 +302,7 @@
 				17E305BF1E7B0DBB00F925A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -24,6 +24,7 @@ class ViewController: UIViewController {
 
         if canClear {
             resultsLable.text = ""
+            resultsLable.text = "0"
             canClear = false
         }
         
@@ -61,6 +62,7 @@ class ViewController: UIViewController {
     }
     
     func calculate() -> Double{
+        //bug becuase it is always looking for a second number when calculating as a non operational value
         let firstNumber = Double(firstNumberText)!
         let secondNumber = Double(secondNumberText)!
         firstNumberText = ""
@@ -90,6 +92,9 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func saveAction(_ sender: UIButton) {
+    
+    }
 
 }
 
